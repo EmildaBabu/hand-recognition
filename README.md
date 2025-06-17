@@ -29,8 +29,8 @@ Run the script and test the system by showing your hand in front of the webcam. 
 
 
 ## OUTPUT
-<img src="https://github.com/EmildaBabu/Robocar/blob/abdf8944550e80e52a2ba0d17d013ba3f7e18c32/Working%20_model.jpg" alt="working model" width="400" height="250">
-<img src="https://github.com/EmildaBabu/Robocar/blob/abdf8944550e80e52a2ba0d17d013ba3f7e18c32/controller.jpg" alt="working model" width="200" height="500">
+<img src="https://github.com/EmildaBabu/hand-recognition/blob/c6507deab120e5fbd7715b32557e8690fdd2c71a/images/hand%20reocg.png" alt="Hand-recog" width="300" height="250">
+<img src="https://github.com/EmildaBabu/hand-recognition/blob/c6507deab120e5fbd7715b32557e8690fdd2c71a/images/rasperry%20pi.png" alt="rasppi4" width="300" height="250">
 
 
 
